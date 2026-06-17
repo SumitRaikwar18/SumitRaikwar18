@@ -1,88 +1,162 @@
 <div align="center">
 
-# Hey, I'm Sumit Raikwar 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sumit%20Raikwar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Web3%20%C3%97%20AI%20Builder&descAlignY=55&descSize=18" />
 
-### Building at the intersection of Web3 × AI
+</div>
 
-*Frontend dev turned full-stack builder — shipping onchain products that actually do something.*
+<div align="center">
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/sumit_raikwar18?style=for-the-badge&logo=x&color=000000&labelColor=111)](https://x.com/sumit_raikwar18)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sumitraikwar/)
-[![GitHub followers](https://img.shields.io/github/followers/SumitRaikwar18?style=for-the-badge&logo=github&color=181717)](https://github.com/SumitRaikwar18)
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+onchain+%C3%97+AI+products+%F0%9F%9A%80;Stellar+%7C+Sui+%7C+Solana+%7C+Move+%7C+Soroban;AI+Agent+Payments+%26+DeFi+Infrastructure;Hackathon+Builder+%E2%9A%A1+Open+Source+Contributor" alt="Typing SVG" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![Twitter](https://img.shields.io/badge/X%20%2F%20Twitter-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/sumit_raikwar18)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumitraikwar/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SumitRaikwar18)
+![Profile Views](https://komarev.com/ghpvc/?username=SumitRaikwar18&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-## What I'm About
+## `whoami`
 
-I build things that live onchain. My focus is **Web3 infrastructure** (Stellar, Sui, Solana) and **AI-native products** — not demos, actual deployable systems. Currently deep in smart contracts, AI agent payments, and intent-based DeFi.
+```yaml
+name        : Sumit Raikwar
+role        : Web3 × AI Developer
+location    : India 🇮🇳
+chains      : Stellar · Sui · Solana
+languages   : TypeScript · Rust · Move · JavaScript
+focus       : AI Agent Payments · DeFi Infrastructure · Smart Contracts
+building    : Intent-based DeFi · Micropayment Protocols · Onchain AI
+status      : 🟢 Open to collabs & hackathons
+```
 
-```
-Current stack:  TypeScript · Soroban (Rust) · Move · Next.js · Node.js
-Chains:         Stellar · Sui · Solana
-AI:             GPT-4o · Agentic workflows · Zod validation
-```
+> *"I don't just write code. I ship systems that move value onchain."*
 
 ---
 
-## 🚀 Featured Projects
+## ⚡ Featured Projects
 
-### 🔐 [Aegis Intent Guardian](https://github.com/NikhilRaikwar/Aegis)
-> *Sui Overflow 2026 Hackathon — DeFi · DeepBook · Agentic Web · Walrus*
+<table>
+<tr>
+<td width="50%">
 
-AI-native intent execution on Sui. Describe your financial goal in plain English → AI parses intent → Guardian scores live DeepBook risk → Move-enforced PTB executes atomically. 121/121 unit tests passing. Full testnet deployment.
+### 🛡️ Aegis Intent Guardian
+**Sui Overflow 2026 Hackathon**
 
-`Move` `Sui` `DeepBook` `GPT-4o` `TypeScript` `Zod`
+AI-native intent execution on Sui. Plain English → AI parses → Guardian scores DeepBook risk → Move PTB executes atomically.
 
----
+`Move` `Sui` `DeepBook` `GPT-4o` `TypeScript`
 
-### 💸 [PayWall.ai](https://github.com/SumitRaikwar18/PayWall.ai)
-> *Agents on Stellar Hackathon*
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/NikhilRaikwar/Aegis)
 
-Monetize any HTTP API in 60 seconds using Stellar's x402 micropayment protocol. AI agents pay for services autonomously — no wallets, no friction, just HTTP headers carrying value.
+</td>
+<td width="50%">
+
+### 💸 PayWall.ai
+**Agents on Stellar Hackathon**
+
+Monetize any HTTP API in 60 seconds with Stellar x402 micropayments. Machines pay machines — zero friction.
 
 `TypeScript` `Stellar` `x402` `AI Agents`
 
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/SumitRaikwar18/PayWall.ai)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🌊 StreamPay
+**Rise In × Stellar Program**
+
+Soroban-powered USDC payment streaming dApp. Continuous micropayments for freelancers, creators & AI agents.
+
+`Soroban` `Rust` `USDC` `Next.js`
+
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/SumitRaikwar18/StreamPay)
+
+</td>
+<td width="50%">
+
+### 🕵️ WhisperAPI
+**Solana × MagicBlock**
+
+AI agents pay for APIs on Solana with zero public exposure. Spend, provider, cadence — all private.
+
+`JavaScript` `Solana` `MagicBlock` `Privacy`
+
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/SumitRaikwar18/WhisperAPI)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📜 Provenance
+**Onchain Document Integrity**
+
+Full-stack Next.js app that anchors document history onchain. Tamper-proof, verifiable, real-time audit trail for creators.
+
+`TypeScript` `Next.js` `Blockchain`
+
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/SumitRaikwar18/Provenance)
+
+</td>
+<td width="50%">
+
+### 🎮 SonicFan99
+**The OG Side Project**
+
+A nostalgia-packed Sonic the Hedgehog fansite. Because every builder needs a fun one. ⭐ Starred.
+
+`JavaScript` `HTML/CSS` `Fun`
+
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/SumitRaikwar18/sonicfan99.github.io)
+
+</td>
+</tr>
+</table>
+
 ---
 
-### 🌊 [StreamPay](https://github.com/SumitRaikwar18/StreamPay)
-> *Rise In × Stellar — Journey to Mastery*
-
-Soroban-powered USDC payment streaming dApp for freelancers, creators, and AI agents. Contract-based continuous micropayment workflows on Stellar testnet.
-
-`TypeScript` `Soroban` `Rust` `USDC` `Next.js`
-
----
-
-### 🕵️ [WhisperAPI](https://github.com/SumitRaikwar18/WhisperAPI)
-> *Solana · MagicBlock Private Payments*
-
-AI agents pay for APIs and machine services on Solana without exposing provider choice, spend cadence, or identity on public rails. Built on MagicBlock's private payment infrastructure.
-
-`JavaScript` `Solana` `MagicBlock` `AI Agents`
-
----
-
-### 📜 [Provenance](https://github.com/SumitRaikwar18/Provenance)
-> *Verifiable document history for creators*
-
-Full-stack Next.js app that anchors your document's creation trail onchain — a tamper-proof audit log in real-time. For writers, designers, and IP-conscious builders.
-
-`TypeScript` `Next.js` `Blockchain` `Creators`
-
----
-
-## 🛠 Tech Stack
+## 🛠 Tech Arsenal
 
 <div align="center">
 
-| Web3 | Languages | Frontend / Backend | AI & Tools |
-|:----:|:---------:|:-----------------:|:----------:|
-| Stellar · Soroban | TypeScript | Next.js | GPT-4o mini |
-| Sui · Move | Rust | Node.js | OpenAI Responses API |
-| Solana | JavaScript | React | Zod Validation |
-| DeepBook | HTML/CSS | Tailwind CSS | Agentic Workflows |
+**Blockchain & Web3**
+
+![Stellar](https://img.shields.io/badge/Stellar-090020?style=for-the-badge&logo=stellar&logoColor=white)
+![Sui](https://img.shields.io/badge/Sui-6fbcf0?style=for-the-badge&logo=sui&logoColor=black)
+![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
+
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Frontend & Backend**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**AI & Tools**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
@@ -92,38 +166,64 @@ Full-stack Next.js app that anchors your document's creation trail onchain — a
 
 <div align="center">
 
-![Sumit's GitHub stats](https://github-readme-stats.vercel.app/api?username=SumitRaikwar18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SumitRaikwar18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumitRaikwar18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SumitRaikwar18&layout=compact&theme=tokyonight&hide_border=true)
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=SumitRaikwar18&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa" />
 
 </div>
 
 ---
 
-## 🏆 Hackathons & Programs
-
-| Year | Event | Project | Status |
-|:----:|:-----:|:-------:|:------:|
-| 2026 | Sui Overflow 2026 | Aegis Intent Guardian | 🟢 Submitted |
-| 2025–26 | Agents on Stellar | PayWall.ai | ✅ Completed |
-| 2025–26 | Rise In × Stellar (Orange Belt) | StreamPay | ✅ Completed |
-
----
-
-## 🤝 Let's Connect
-
-I'm always down to talk Web3 infra, AI agent payments, onchain DeFi, or just builder stuff in general.
-
-- 🐦 Twitter/X → [@sumit_raikwar18](https://x.com/sumit_raikwar18)
-- 💼 LinkedIn → [in/sumitraikwar](https://www.linkedin.com/in/sumitraikwar/)
-- 🐙 GitHub → [SumitRaikwar18](https://github.com/SumitRaikwar18)
-
----
+## 🏆 Trophies
 
 <div align="center">
 
-*"Ship onchain or stay curious — ideally both."*
+[![trophy](https://github-profile-trophy.vercel.app/?username=SumitRaikwar18&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Profile Views](https://komarev.com/ghpvc/?username=SumitRaikwar18&color=blueviolet&style=for-the-badge)
+</div>
+
+---
+
+## 🚀 Hackathons & Programs
+
+<div align="center">
+
+| 🏆 Event | 🔨 Project | 🔗 Chain | ✅ Status |
+|:---------|:----------|:--------|:---------|
+| Sui Overflow 2026 | Aegis Intent Guardian | Sui | 🟢 Submitted |
+| Agents on Stellar Hackathon | PayWall.ai | Stellar | ✅ Completed |
+| Rise In × Stellar (Orange Belt) | StreamPay | Stellar / Soroban | ✅ Completed |
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Sumit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SumitRaikwar18&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f59e0b)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🤝 Let's Build Together
+
+<div align="center">
+
+Got a Web3 + AI idea? Building something onchain? Let's talk.
+
+[![Twitter DM](https://img.shields.io/badge/DM%20on%20X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/sumit_raikwar18)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumitraikwar/)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
 </div>
